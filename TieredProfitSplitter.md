@@ -19,6 +19,6 @@ This project involves building smart contracts through Solidity. Here we distrib
 ### 5. Percentage Deposit amount distributed among the three employees.
 <img width="1198" alt="10_TieredProfitSplitter_After deploy 2021-10-16 at 9 06 26 PM" src="https://user-images.githubusercontent.com/83980061/137664320-61ee82d6-e484-45d6-8069-e1748d186a5d.png">
 
-
+### 6. Similary change the network to Kovan Test and follow the steps as attached screenshots in folder ProjectScreenShots\Testing NW_Kovan
 
 
