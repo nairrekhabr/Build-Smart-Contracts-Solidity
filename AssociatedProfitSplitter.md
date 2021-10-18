@@ -18,5 +18,5 @@ This project involves building smart contracts through Solidity. Here we distrib
 ### 5. Deposit Amount split between employee_one, employee_two & employee_three.
 <img width="1199" alt="5_ProfitSplitter_Among Employee 2021-10-16 at 8 25 42 PM" src="https://user-images.githubusercontent.com/83980061/137663192-521fa718-741b-4e5a-82fb-b86cdbabcb71.png">
 
-
+### 6. Similary change the network to Kovan Test and follow the steps as attached screenshots in folder ProjectScreenShots\Testing NW_Kovan
 
