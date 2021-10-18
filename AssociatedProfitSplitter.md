@@ -10,7 +10,7 @@ This project involves building smart contracts through Solidity. Here we distrib
 <img width="1217" alt="2_Compile_ProfitSplitter_ 2021-10-16 at 4 46 58 PM" src="https://user-images.githubusercontent.com/83980061/137662931-9a886d6c-7c11-4163-a9e7-f9fb5714c4c8.png">
 
 ### 3.Deploy the Associate ProfitSplitter Solidity Code
-<img width="1375" alt="4_Deposit_Profit Splitter 2021-10-16 at 8 25 02 PM" src="https://user-images.githubusercontent.com/83980061/137663017-66dc6532-f800-4379-b7c2-e499f1a9a7ba.png">
+<img width="1375" alt="3_Deploy_ProfitSplitter_ 2021-10-16 at 8 21 53 PM" src="https://user-images.githubusercontent.com/83980061/137663468-57a5439e-2fed-4c3e-9cfa-e1fbe3350f18.png">
 
 ### 4. Deposit the amount to the employees
 <img width="1375" alt="4_Deposit_Profit Splitter 2021-10-16 at 8 25 02 PM" src="https://user-images.githubusercontent.com/83980061/137663077-c09809f5-eea5-4247-b358-9b45cad9ec0b.png">
