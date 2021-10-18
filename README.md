@@ -3,7 +3,6 @@ This project involves building smart contracts through Solidity. Here we distrib
 
 # Unit 20 - "Looks like we've made our First Contract!"
 
-![contract](Images/smart-contract.png)
 
 ## Background
 
