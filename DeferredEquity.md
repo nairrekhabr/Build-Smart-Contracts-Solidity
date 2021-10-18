@@ -21,3 +21,5 @@ This project involves building smart contracts through Solidity. Here we distrib
 
 ### 5. Test Successfully the fastforward function for timelock.
 <img width="1382" alt="16_DeferredEquity_Testing_Fastforward_function 2021-10-17 at 3 19 54 AM" src="https://user-images.githubusercontent.com/83980061/137665238-246e6a34-24e9-4d6d-bae5-5669a8fba39a.png">
+
+### 6. Similary change the network to Kovan Test and follow the steps as attached screenshots in folder ProjectScreenShots\Testing NW_Kovan
